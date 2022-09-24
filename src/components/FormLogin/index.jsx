@@ -22,6 +22,7 @@ function FormLogin() {
     if (user?.user?.id) {
       history.push("/dashboard");
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [user?.user?.id]);
 
   const formSchema = yup.object().shape({
