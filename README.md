@@ -8,7 +8,7 @@
 
 ## Descrição do projeto
 
-Essa é uma plataforma focadas em alunos do curso da Kenzie Academy Brasil onde o pode se cadastrar e fazer login, com intuito de listar e organizar, nivelar seus conhecimentos em determinadas tecnologias. 
+Essa é uma plataforma focadas em alunos do curso da Kenzie Academy Brasil onde você pode se cadastrar e fazer login, com intuito de listar e organizar, nivelar seus conhecimentos em determinadas tecnologias. 
 
 #### Veja o projeto online: https://kenziehub-omega-topaz.vercel.app/
 
